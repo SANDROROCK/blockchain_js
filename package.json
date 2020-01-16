@@ -1,0 +1,8 @@
+{
+  "name": "blkhain",
+  "version": "1.0.0",
+  "description": "Blockchain teste em node.js",
+  "main": "index.js",
+  "author": "Alessandro Rocha",
+  "license": "MIT"
+}
